@@ -1,0 +1,15 @@
+[
+  { "date": "01-01", "name": "New Year's Day", "type": "Public Holiday" },
+  { "date": "02-01", "name": "Public Holiday", "type": "Public Holiday" },
+  { "date": "01-05", "name": "Labour Day", "type": "Public Holiday" },
+  { "date": "01-06", "name": "Madaraka Day", "type": "National Holiday" },
+  { "date": "10-10", "name": "Huduma Day", "type": "Public Holiday" },
+  { "date": "20-10", "name": "Mashujaa Day", "type": "National Holiday" },
+  { "date": "12-12", "name": "Jamhuri Day", "type": "National Holiday" },
+  { "date": "25-12", "name": "Christmas Day", "type": "Public Holiday" },
+  { "date": "26-12", "name": "Boxing Day", "type": "Public Holiday" },
+  { "date": "Good Friday", "name": "Good Friday", "type": "Christian Holiday" },
+  { "date": "Easter Monday", "name": "Easter Monday", "type": "Christian Holiday" },
+  { "date": "Idd ul Fitr", "name": "Idd ul Fitr", "type": "Muslim Holiday" },
+  { "date": "Idd ul Adha", "name": "Idd ul Adha", "type": "Muslim Holiday" }
+]

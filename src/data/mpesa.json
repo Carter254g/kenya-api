@@ -1,0 +1,35 @@
+{
+  "paybills": [
+    { "number": "400200", "name": "KPLC Prepaid", "category": "Utilities" },
+    { "number": "888880", "name": "KPLC Postpaid", "category": "Utilities" },
+    { "number": "400500", "name": "Nairobi Water", "category": "Utilities" },
+    { "number": "891300", "name": "Safaricom Home Fibre", "category": "Internet" },
+    { "number": "200999", "name": "Zuku", "category": "Internet" },
+    { "number": "220220", "name": "Airtel Kenya", "category": "Airtime" },
+    { "number": "100100", "name": "Telkom Kenya", "category": "Airtime" },
+    { "number": "247247", "name": "Equity Bank", "category": "Banking" },
+    { "number": "522522", "name": "KCB Bank", "category": "Banking" },
+    { "number": "400400", "name": "Co-op Bank", "category": "Banking" },
+    { "number": "333200", "name": "Family Bank", "category": "Banking" },
+    { "number": "300300", "name": "Absa Bank", "category": "Banking" },
+    { "number": "911911", "name": "NCBA Bank", "category": "Banking" },
+    { "number": "990099", "name": "KRA iTax", "category": "Government" },
+    { "number": "222111", "name": "NHIF", "category": "Government" },
+    { "number": "195195", "name": "NSSF", "category": "Government" },
+    { "number": "111900", "name": "eCitizen", "category": "Government" },
+    { "number": "700700", "name": "Safaricom M-PESA Rates", "category": "Telecoms" },
+    { "number": "290290", "name": "GoTV Kenya", "category": "Entertainment" },
+    { "number": "777100", "name": "DStv Kenya", "category": "Entertainment" },
+    { "number": "444700", "name": "Startimes Kenya", "category": "Entertainment" },
+    { "number": "606060", "name": "Tala Loans", "category": "Loans" },
+    { "number": "521900", "name": "Branch Loans", "category": "Loans" }
+  ],
+  "till_categories": [
+    "Supermarkets",
+    "Petrol Stations",
+    "Pharmacies",
+    "Restaurants",
+    "Hardware Stores",
+    "Clothing Stores"
+  ]
+}

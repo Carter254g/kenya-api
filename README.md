@@ -5,7 +5,7 @@ A free public REST API serving Kenya public data — counties, banks, M-Pesa pay
 No authentication required. Free to use.
 
 ## Base URL
-https://kenya-api.onrender.com
+https://kenya-api-90wq.onrender.com
 ## Endpoints
 
 ### Counties
@@ -133,14 +133,14 @@ Kenya has 8 regions:
 
 ```javascript
 // Get all Nairobi counties
-const res = await fetch('https://kenya-api.onrender.com/api/counties?region=Nairobi');
+const res = await fetch('https://kenya-api-90wq.onrender.com/api/counties?region=Nairobi');
 const data = await res.json();
 console.log(data);
 ```
 
 ```python
 import requests
-res = requests.get('https://kenya-api.onrender.com/api/counties?region=Coast')
+res = requests.get('https://kenya-api-90wq.onrender.com/api/counties?region=Coast')
 print(res.json())
 ```
 
